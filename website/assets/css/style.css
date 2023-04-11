@@ -40,4 +40,12 @@ h3.jumboText {
 }
 
 
+.cardBackground{
+    background-color: gainsboro;
+    border-color: grey;
+    border-radius: 10%;
+}
 
+.formulario{
+    margin: 0 auto;
+}
