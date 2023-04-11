@@ -1,33 +1,43 @@
 body{
-    background: #BDBDBD;
+    background: white;
 }
 .navbarBrand{
     color: rgba(255, 255, 255, 0.65);
-    
 }
+
 .jumbotron{
     background-image: url("../../assets/img/bg.jpg");
     background-size: cover;
     background-position: bottom;
-    
-   
-    
-    
 }
+
+
 .jumboText{
     background-color: #F3FDFF;
     text-align: center;
     font-weight: 400;
     font-family: sans-serif;
 }
+
+
 h1.jumboText{
     font-size: 9vw;
 }
+
+
 h3.jumboText {
     font-size: 5vw;
 }
+
 
 .jumbotron div h3{
     margin-top: 1vw;
     margin-bottom: 200px;
 }
+
+.card{
+    border: none;
+}
+
+
+
