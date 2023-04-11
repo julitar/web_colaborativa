@@ -8,10 +8,3 @@ body{
 .card{
     border: none;
 }
-
-.portfolioImg
-{
-width: 700px;
-height: 400px;
-object-fit: cover;
-}
